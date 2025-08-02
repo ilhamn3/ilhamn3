@@ -66,6 +66,6 @@
 
 <p align="center">
   <a href="ilhamn2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="[linkedin.com/in/mohamed-ilham-b106152b1](https://www.linkedin.com/in/mohamed-ilham-b106152b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsBTV7%2BV2SkCq%2B09poRAaAw%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-ilham-b106152b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsBTV7%2BV2SkCq%2B09poRAaAw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
  
 </p>
