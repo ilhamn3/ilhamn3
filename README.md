@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ilham 👋</h1>
 
 <p align="center">
-  💻 Developer | 🎓 SLIIT Undergraduate |  🔧 Builder of SHIMA App & Course Management System
+  💻 Developer | 🎓 SLIIT AI Undergraduate | 🚀 Building AI & Web Applications
 </p>
 
 <p align="center">
