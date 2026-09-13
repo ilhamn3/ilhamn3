@@ -100,8 +100,9 @@ Multiple cross-platform apps for Android and iOS — Firebase backend, async sta
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ilhamn3&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamn3&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/ilhamn3?style=for-the-badge&color=0D9488&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/github/stars/ilhamn3?style=for-the-badge&color=0D9488&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/github/languages/top/ilhamn3?style=for-the-badge&color=0D9488&labelColor=1e1e2e" />
 </p>
 
 ---
