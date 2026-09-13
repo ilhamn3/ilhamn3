@@ -103,7 +103,7 @@ Multiple cross-platform apps for Android and iOS — Firebase backend, async sta
 <p align="center">
   <img src="https://img.shields.io/github/followers/ilhamn3?style=for-the-badge&color=0D9488&labelColor=1e1e2e" />
   <img src="https://img.shields.io/github/stars/ilhamn3?style=for-the-badge&color=0D9488&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/github/languages/top/ilhamn3?style=for-the-badge&color=0D9488&labelColor=1e1e2e" />
+ 
 </p>
 
 <p align="center">
