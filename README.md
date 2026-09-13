@@ -97,12 +97,17 @@ Multiple cross-platform apps for Android and iOS — Firebase backend, async sta
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ilhamn3?style=for-the-badge&color=0D9488&labelColor=1e1e2e" />
   <img src="https://img.shields.io/github/stars/ilhamn3?style=for-the-badge&color=0D9488&labelColor=1e1e2e" />
   <img src="https://img.shields.io/github/languages/top/ilhamn3?style=for-the-badge&color=0D9488&labelColor=1e1e2e" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ilhamn3&theme=tokyonight&hide_border=true&date_format=%5Bj%20M%5D" />
 </p>
 
 ---
